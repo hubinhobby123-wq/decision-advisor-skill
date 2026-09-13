@@ -14,11 +14,11 @@ This keeps ordinary questions lightweight and makes deeper decision analysis an 
 ## What It Produces
 
 - A clear decision statement
-- Facts, assumptions, unknowns, constraints, and ground truths
-- Two to four relevant mental models
-- Multiple options, including reversible or low-cost experiments
+- Facts, assumptions, unknowns, constraints, and ground truths, with evidence boundaries for important facts
+- One to four depth-appropriate mental models
+- Feasible options screened against hard constraints, including reversible or low-cost experiments
 - A red-team and pre-mortem check of the leading option
-- A recommendation with confidence, immediate actions, and review triggers
+- A direct, conditional, or evidence-gathering decision conclusion with confidence, immediate actions, and review triggers
 
 The included reference library covers 30 reusable mental models across decision-making, strategy, risk, uncertainty, planning, systems, and cognitive bias.
 
